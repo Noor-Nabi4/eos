@@ -8,6 +8,7 @@ build_test/
 *.map
 .eos/
 _build/
+temp_auto_push.bat
 *.bak
 build-*/
 dist/
@@ -18,3 +19,5 @@ __pycache__/
 target/
 .pytest_cache/
 .DS_Store
+.gitignore
+branch_structure.json

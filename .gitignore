@@ -9,6 +9,7 @@ build_test/
 .eos/
 _build/
 *.bak
+temp_auto_push.bat
 build-*/
 dist/
 node_modules/
@@ -18,3 +19,8 @@ __pycache__/
 target/
 .pytest_cache/
 .DS_Store
+build_coverage/
+build_qemu_arm64/
+build_sim/ 
+.gitignore
+branch_structure.json
